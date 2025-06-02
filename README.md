@@ -6,7 +6,7 @@
 </div>
 
 ## 🎵 Currently vibing to
-[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i)
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **Website Traffic Prediction** and other ML projects
