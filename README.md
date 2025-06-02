@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mostafa-eslam-85037423b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
   <a href="mailto:mostafaeslam1220@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square"></a>
   <a href="https://wa.me/201112144903"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=flat-square"></a>
-  <a href="https://open.spotify.com/user/6MQnUjIjnIOfHDFzqBJOAl"><img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&style=flat-square"></a>
+  <a href="https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i"><img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&style=flat-square"></a>
   <a href="https://github.com/MostafaEslam"><img src="https://img.shields.io/badge/GitHub-333?logo=github&style=flat-square"></a>
 </p>
 
@@ -55,11 +55,11 @@ I’m Mostafa, a final-year AI student from Egypt 🇪🇬, blending 🤖 Machin
 
 ---
 
-### 🎧 Currently Listening To
+### 🎧 Recently Jamming to:
 
-> Check out my **coding playlist** on Spotify  
-> 🎵 [Spotify: Code & Chill](https://open.spotify.com/user/your_spotify_id_here)  
-> Warning: Includes both Lofi beats and random anime openings.
+<a href="https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=vweo8ierzxuy0heakjyf9pm1i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" width="100%" />
+</a>
 
 ---
 
@@ -72,13 +72,4 @@ I’m Mostafa, a final-year AI student from Egypt 🇪🇬, blending 🤖 Machin
 
 ---
 
-### 🌈 Fun Facts
-
-- I debug better at 3 AM than during class
-- I have more AI models than clean socks
-- I once convinced a chatbot that it was human (we’re still in therapy...)
-
----
-
 > "Always experimenting. Occasionally succeeding. Always vibing."
-
