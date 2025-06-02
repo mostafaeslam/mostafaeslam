@@ -59,15 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaeslam&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafaeslam&theme=onedark" />
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/mostafaeslam/mostafaeslam/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
