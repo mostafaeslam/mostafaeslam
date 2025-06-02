@@ -2,18 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+AR+Developer;Graduation+Project+on+XREAL+Glasses;Voice-based+RAG+System+Builder;Always+Breaking+Things+Creatively)](https://git.io/typing-svg)
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> About me
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> About Me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-• 🎓 I'm a senior `AI student` @AASTMT focused on creative applications of ML and AR   
-• 👓 Building a graduation project using `XREAL Air 2 Ultra` glasses
-• 🤖 Created a voice-interactive RAG system with `Whisper`, `Gemini`, and `ElevenLabs`
-• 🛠️ Experienced in `FastAPI`, `MongoDB`, `Node.js`, and `Unity`
-• 🗣️ Specialized in speech-based AI and educational systems
-• 📦 My backend is so smart it makes decisions before I do
-• 🎧 Jamming to Spotify while my chatbot does my homework
-• 📫 Reach me: [mostafaeslam1220@gmail.com](mailto:mostafaeslam1220@gmail.com)
+- 🎓 I'm a senior `AI student` at **AASTMT**, passionate about creating intelligent, real-world solutions using ML and AR.
+- 👓 Building a cutting-edge graduation project using `XREAL Air 2 Ultra` glasses.
+- 🤖 Developed a **voice-interactive RAG system** powered by `Whisper`, `Gemini`, and `ElevenLabs`.
+- 🧠 Focused on **speech-based AI**, **educational technology**, and **human-computer interaction**.
+- 🛠️ Proficient in `FastAPI`, `MongoDB`, `Node.js`, and `Unity`, crafting scalable backend systems and immersive AR interfaces.
+- 🔁 My system can pause narration, answer questions, and resume—just like a real teacher.
+- 🎧 Jamming to Spotify while my virtual assistant handles the hard stuff.
+- 📬 Let's connect: [mostafaeslam1220@gmail.com](mailto:mostafaeslam1220@gmail.com)
 
 ## 🎧 Currently Vibing
 
