@@ -6,7 +6,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-• 🎓 I'm a senior `AI student` @AASTMT focused on creative applications of ML and AR
+• 🎓 I'm a senior `AI student` @AASTMT focused on creative applications of ML and AR   
+
 • 👓 Building a graduation project using `XREAL Air 2 Ultra` glasses
 • 🤖 Created a voice-interactive RAG system with `Whisper`, `Gemini`, and `ElevenLabs`
 • 🛠️ Experienced in `FastAPI`, `MongoDB`, `Node.js`, and `Unity`
