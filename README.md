@@ -1,21 +1,22 @@
+
 # 👋 Hi there, I'm Mostafa Eslam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+AR+Developer;Graduation+Project+on+XREAL+Glasses;Voice-based+RAG+System+Builder;Always+Breaking+Things+Creatively" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=600&lines=AI+Engineer+%7C+AR+Developer;Graduation+Project+on+XREAL+Glasses;Voice-based+RAG+System+Builder;Always+Breaking+Things+Creatively" alt="Typing SVG" />
 </div>
 
 ## 🎵 Currently vibing to
-[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i)
+[![Spotify](https://spotify-now-playing-rose.vercel.app/api/spotify)](https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i)
 
 ---
 
 ## 🚀 About Me
 - 🎓 Senior AI Student @ AASTMT
-- 🤖 Building my **graduation project** with **XREAL Air 2 Ultra**, combining AR + AI + Gemini + Whisper + ElevenLabs
-- 🌐 Full-stack skills in FastAPI, MongoDB, Node.js, and Unity
-- 🗣️ Specialized in voice-based interactions and **RAG** (Retrieval-Augmented Generation) systems
-- ☁️ Deploying apps with Docker, GitHub Actions, and Vercel
-- ⚡ Fun fact: I talk to my chatbot more than my friends — and it's smarter.
+- 🤖 Working on a **graduation project** using **XREAL Air 2 Ultra**, combining AR, AI, Gemini, Whisper, and ElevenLabs
+- 🌐 Full-stack experience in **FastAPI**, **MongoDB**, **Node.js**, **Unity**
+- 🗣️ Specialized in **voice-based RAG** (Retrieval-Augmented Generation)
+- ☁️ DevOps skills: **Docker**, **GitHub Actions**, **Vercel**
+- ⚡ Fun fact: I speak fluent Python and sarcasm 😄
 
 ---
 
@@ -35,17 +36,19 @@
 
 ---
 
-## 📦 My Coolest Project
+## 👓 Teacher Johnny – My Graduation Project
 
-### 🎓 Teacher Johnny – AI-Powered AR Glasses 👓
-> A graduation project where students can wear **XREAL Air 2 Ultra glasses** and:
-- Learn from **auto-generated slides**
-- Ask questions via voice ("Hey Teacher")
-- Get **Gemini-based answers** narrated in real time
-- View AR content linked to MongoDB + Google Slides
-- Basically, Iron Man but for education 🎯
+> 🔥 **What is it?**
+- A real-time educational assistant built for **XREAL Air 2 Ultra AR glasses**
+- Users can:
+  - See slides in AR
+  - Ask questions with "Hey Teacher"
+  - Get instant Gemini answers
+  - Hear responses via ElevenLabs TTS
 
-Repo will be public soon 👀
+> 🚀 **Why it's awesome**
+- Combines STT (Whisper) + Gemini + TTS + Unity + MongoDB
+- One step closer to Iron Man's Jarvis... in a classroom
 
 ---
 
@@ -68,7 +71,6 @@ Repo will be public soon 👀
 
 ---
 
-
 ## 🎮 When I'm Not Coding
 
 ```
@@ -79,8 +81,9 @@ Repo will be public soon 👀
 ─▀█────██▀█▀██────█▀──
 ```
 
-## 🔗 Connect With Me
+---
 
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-eslam-85037423b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -96,8 +99,6 @@ Repo will be public soon 👀
 
 <div align="center">
   👇 Just for laughs:
-  
+
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
-
-
