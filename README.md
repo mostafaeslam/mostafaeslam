@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+AR+Developer;Graduation+Project+on+XREAL+Glasses;Voice-based+RAG+System+Builder;Always+Breaking+Things+Creatively)](https://git.io/typing-svg)
 
-## <img src="" width="40px"> About Me
+ About Me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
