@@ -17,7 +17,9 @@
 
 ## 🎧 Currently Vibing
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=vweo8ierzxuy0heakjyf9pm1i&count=3)](https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i)
+## 🎧 Currently Vibing
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=vweo8ierzxuy0heakjyf9pm1i&count=3&width=500)](https://open.spotify.com/user/vweo8ierzxuy0heakjyf9pm1i)
 
 ## 🧠 Skills & Tech
 
