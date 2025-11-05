@@ -1,19 +1,19 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Mostafa Eslam!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+AR+Developer;Graduation+Project+on+XREAL+Glasses;Voice-based+RAG+System+Builder;Always+Breaking+Things+Creatively)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+Agentic+AI+Developer;Building+MARA+(Multi-Agent+Research+Assistant);Voice-based+RAG+Systems+Builder;Always+Breaking+Things+Creatively)](https://git.io/typing-svg)
 
 ## About Me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-- 🎓 I'm a senior `AI student` at **AASTMT**, passionate about creating intelligent, real-world solutions using ML and AR.
-- 👓 Building a cutting-edge graduation project using `XREAL Air 2 Ultra` glasses.
-- 🤖 Developed a **voice-interactive RAG system** powered by `Whisper`, `Gemini`, and `ElevenLabs`.
-- 🧠 Focused on **speech-based AI**, **educational technology**, and **human-computer interaction**.
-- 🛠️ Proficient in `FastAPI`, `MongoDB`, `Node.js`, and `Unity`, crafting scalable backend systems and immersive AR interfaces.
-- 🔁 My system can pause narration, answer questions, and resume—just like a real teacher.
-- 🎧 Jamming to Spotify while my virtual assistant handles the hard stuff.
-- 📬 Let's connect: [mostafaeslam1220@gmail.com](mailto:mostafaeslam1220@gmail.com)
+- 🎓 Graduated with a **B.Sc. in Artificial Intelligence** from **AASTMT, Alamein Campus**.  
+- 💼 Currently developing **MARA (Multi-Agent Research Assistant)** — a personal project that integrates multiple intelligent agents to automate research, summarization, and knowledge retrieval.  
+- 🤖 Experienced in **LLMs, RAG systems, and speech-based AI** using `Gemini`, `Whisper`, and `ElevenLabs`.  
+- 🧠 Focused on **Agentic AI**, **retrieval-augmented generation**, and **human-AI collaboration**.  
+- 🛠️ Skilled in `FastAPI`, `LangChain`, `Docker`, `MongoDB`, and `Unity`, building end-to-end scalable AI applications.  
+- 🔍 Completed the **DEPI Generative AI Professional Track**, building multiple production-ready GenAI projects.  
+- 🎧 Usually vibing to Spotify while my agents do the hard work.  
+- 📬 Reach me at: [mostafaeslam1220@gmail.com](mailto:mostafaeslam1220@gmail.com)
 
 ## 🎧 Currently Vibing
 
@@ -29,10 +29,10 @@
 
 ### 🧪 AI / ML / NLP
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-OpenAI-272A37?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-purple?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🌐 Web & AR Dev
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -40,17 +40,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔥 Coolest Project
+## 🔥 Current Project
 
-### 🎓 Teacher Johnny – AI-Powered AR Glasses 👓
-> 🧠 An immersive educational system where students wear XREAL Air 2 Ultra glasses to:
-> - View auto-generated Google Slides linked to MongoDB
-> - Ask questions via wake word "Hey Teacher"
-> - Get real-time answers from Gemini + Whisper + TTS
-> - Interact with AR visuals in Unity
-> - Basically Iron Man meets Khan Academy
+### 🧠 MARA — Multi-Agent Research Assistant  
+> A solo-built agentic system that coordinates multiple intelligent agents to automate:
+> - Research and data gathering  
+> - Summarization and RAG-based insights  
+> - Citation tracking and content generation  
+> - Integration with speech and text interfaces  
 
-🚀 Repo coming soon...
+🚀 Built with: `LangChain`, `FastAPI`, `Gemini`, `FAISS`, `Docker`, `MongoDB`
 
 ## 📈 GitHub Stats
 
@@ -59,17 +58,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaeslam&theme=tokyonight" />
 </p>
 
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-eslam-85037423b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/201112144903"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://x.com/mustafaaeslaamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>  
+  <a href="https://x.com/mustafaaeslaamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>  
 </p>
 
 ## ✨ Fun Fact
-```
-My chatbot wakes up before I do.
-My API keys are more active than my social life.
-And my AR glasses teach better than my professors.
-```
