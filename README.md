@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
 ```
 
-### `AI Engineer · LLM Systems · Agentic AI · RAG · Automation`
+### AI Engineer · LLM Systems · Agentic AI · RAG · Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaeslam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafaeslam.github.io/New-Portfolio)
@@ -20,7 +20,7 @@
 
 ---
 
-## `> whoami`
+## > whoami
 
 ```python
 class MostafaEslam:
@@ -34,7 +34,7 @@ class MostafaEslam:
 
 ---
 
-## `> ls ./expertise`
+## > ls ./expertise
 
 <table>
 <tr>
@@ -67,46 +67,10 @@ class MostafaEslam:
 </tr>
 </table>
 
----
-
-## `> cat ./projects`
-
-### 🥽 AI-Based Educational System with Mixed Reality *(Graduation Project)*
-> Mixed-reality learning platform with an AI teaching avatar — combining **Gemini LLM + Whisper STT + ElevenLabs TTS** on XREAL Air 2 Ultra glasses, deployed via FastAPI + Docker with automated quiz generation.
-
-`Gemini` `Whisper` `ElevenLabs` `LangChain` `FastAPI` `Docker` `Unity` `XREAL`
 
 ---
 
-### 🛒 Retail Analytics Copilot *(DSPy + LangGraph)*
-> Hybrid AI agent with **RAG over local documents + NL→SQL generation** on the Northwind DB. Features intelligent query routing, constraint planning, citation tracing, SQL repair loops, and structured answer synthesis.
-
-`DSPy` `LangGraph` `Ollama` `phi3.5` `RAG` `SQL` `MLOps`
-
----
-
-### 💊 Clinic Scraper — AI-Enhanced Automation Microservice
-> Dockerized Python microservice for scraping dynamic web data with async processing, retry logic, structured CSV storage, and **LLM-based result classification**.
-
-`Playwright` `FastAPI` `asyncio` `Docker` `BeautifulSoup` `LLM`
-
----
-
-### 🏷️ Coupon Checker — Browser Automation System
-> End-to-end Playwright-powered automation for dynamic web pages — coupon extraction, pricing logic, REST API integration with **n8n workflow scheduling**.
-
-`Playwright` `n8n` `FastAPI` `Webhooks` `asyncio`
-
----
-
-### 📝 NLP Code Generation System
-> Fine-tuned **CodeT5** on 11K+ samples for NL→code generation (Python/C++), achieving **80% syntactic correctness** via compilation-based evaluation.
-
-`CodeT5` `Hugging Face` `PyTorch` `NLP` `Fine-tuning`
-
----
-
-## `> cat ./certifications`
+## > cat ./certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -117,7 +81,7 @@ class MostafaEslam:
 
 ---
 
-## `> neofetch` (GitHub Stats)
+## > neofetch — GitHub Stats
 
 <div align="center">
 
@@ -131,7 +95,7 @@ class MostafaEslam:
 
 ---
 
-## `> echo $CURRENT_FOCUS`
+## > echo $CURRENT_FOCUS
 
 ```
 🌱  Exploring: Advanced LLM orchestration, MCP protocol, AI agents at scale  
