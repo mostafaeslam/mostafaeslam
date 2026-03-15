@@ -19,7 +19,7 @@
 
 ---
 
-## 👤 whoami
+##  whoami
 
 ```python
 class MostafaEslam:
@@ -33,13 +33,13 @@ class MostafaEslam:
 
 ---
 
-## 🛠️ Expertise
+##  Expertise
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧠 AI / ML
+###  AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -52,7 +52,7 @@ class MostafaEslam:
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend & DevOps
+###  Backend & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -69,7 +69,7 @@ class MostafaEslam:
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -85,7 +85,7 @@ class MostafaEslam:
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```
 🌱  Exploring: Advanced LLM orchestration, MCP protocol, AI agents at scale  
