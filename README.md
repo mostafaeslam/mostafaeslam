@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
 ```
 
-### `AI Engineer · LLM Systems · Agentic AI · RAG`
+### `AI Engineer · LLM Systems · Agentic AI · RAG · Automation`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaeslam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafaeslam.github.io/New-Portfolio)
@@ -26,12 +26,11 @@
 class MostafaEslam:
     role        = "AI Engineer"
     degree      = "B.Sc. Artificial Intelligence — AASTMT, Alamein"
-    focus       = ["LLM Systems", "RAG Pipelines", "Agentic AI", "MLOps"]
-    currently   = "Building MARA — Multi-Agent Research Assistant"
+    focus       = ["LLM Systems", "RAG Pipelines", "Agentic AI", "Automation", "MLOps"]
     available   = True  # Open to opportunities
 ```
 
-> I design and deploy **production-ready intelligent systems** — from multi-agent orchestration and retrieval-augmented generation to mixed-reality AI interfaces. I bridge the gap between cutting-edge AI research and reliable, scalable software.
+> I design and deploy **production-ready intelligent systems** — from multi-agent orchestration and retrieval-augmented generation to browser automation and mixed-reality AI interfaces. I bridge the gap between cutting-edge AI research and reliable, scalable software.
 
 ---
 
@@ -57,12 +56,12 @@ class MostafaEslam:
 ### ⚙️ Backend & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </td>
 </tr>
@@ -71,11 +70,6 @@ class MostafaEslam:
 ---
 
 ## `> cat ./projects`
-
-### 🤖 MARA — Multi-Agent Research Assistant *(In Progress)*
-> Orchestrates multiple intelligent agents to automate research, summarization, and knowledge retrieval. Built with LangGraph, RAG, and custom agent memory systems.
-
----
 
 ### 🥽 AI-Based Educational System with Mixed Reality *(Graduation Project)*
 > Mixed-reality learning platform with an AI teaching avatar — combining **Gemini LLM + Whisper STT + ElevenLabs TTS** on XREAL Air 2 Ultra glasses, deployed via FastAPI + Docker with automated quiz generation.
@@ -112,20 +106,6 @@ class MostafaEslam:
 
 ---
 
-## `> history | grep experience`
-
-```
-[Apr 2024 – Oct 2024]  Generative AI Professional Trainee @ DEPI (Digital Egypt Pioneers Initiative)
-                        ↳ LLM systems, RAG pipelines, deployment workflows
-                        ↳ Fine-tuned models → 20% improvement in inference time
-
-[May 2024 – Jun 2024]  Machine Learning Intern @ Mentorness (Remote, India)
-                        ↳ Disease prediction & market forecasting models
-                        ↳ ML pipelines achieving 88% accuracy
-```
-
----
-
 ## `> cat ./certifications`
 
 | Certification | Issuer | Year |
@@ -154,9 +134,8 @@ class MostafaEslam:
 ## `> echo $CURRENT_FOCUS`
 
 ```
-🔭  Building: MARA — Multi-Agent Research Assistant
 🌱  Exploring: Advanced LLM orchestration, MCP protocol, AI agents at scale  
-💬  Ask me about: RAG, LangGraph, Agentic AI, MLOps, FastAPI
+💬  Ask me about: RAG, LangGraph, Agentic AI, Browser Automation, FastAPI
 ⚡  Fun fact: I built a mixed-reality AI teacher before finishing my degree
 ```
 
@@ -166,6 +145,6 @@ class MostafaEslam:
 
 *"The best AI systems are the ones that know when to think, when to search, and when to ask."*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mostafaeslam&icon=5&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=mostafaeslam&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
