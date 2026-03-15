@@ -19,7 +19,7 @@
 
 ---
 
-## > whoami
+## 👤 whoami
 
 ```python
 class MostafaEslam:
@@ -33,7 +33,7 @@ class MostafaEslam:
 
 ---
 
-## > ls ./expertise
+## 🛠️ Expertise
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ class MostafaEslam:
 
 ---
 
-## > cat ./certifications
+## 📜 Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -80,7 +80,7 @@ class MostafaEslam:
 
 ---
 
-## > neofetch — GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@ class MostafaEslam:
 
 ---
 
-## > echo $CURRENT_FOCUS
+## 🎯 Current Focus
 
 ```
 🌱  Exploring: Advanced LLM orchestration, MCP protocol, AI agents at scale  
