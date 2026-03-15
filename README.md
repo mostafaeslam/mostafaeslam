@@ -75,22 +75,13 @@ class MostafaEslam:
 |---|---|---|
 | 🏆 Generative AI Professional Track | DEPI / MCIT Egypt | 2024 |
 | 🎓 Machine Learning in Production | DeepLearning.AI / Coursera | 2024 |
+| 🎓 Delivering Quality Work with Agility | IBM / Coursera | 2024 |
+| 🎓 Business English Track | DEPI / SYE English Community | 2024 |
 | 🎓 Introduction to Machine Learning | ITI | 2023 |
 | 🎓 Machine Learning Internship | Mentorness | 2024 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mostafaeslam&theme=synthwave&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=mostafaeslam&theme=synthwave&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaeslam&theme=synthwave&hide_border=true&layout=compact)
-
-</div>
+| 🔒 Cyber Security Professional Skills | AAST Alexandria / EGICERT | 2022 |
+| 🤖 Summer Seminar — Robot Lab | College of AI, NTRA | 2022 |
+| 🥇 RoboCupJunior Egypt 2022 — Rescue Line | AAST | 2022 |
 
 ---
 
