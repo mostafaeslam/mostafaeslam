@@ -1,21 +1,171 @@
-#  About Me:
- Graduated with a B.Sc. in Artificial Intelligence from AASTMT, Alamein Campus.<br> Currently developing MARA (Multi-Agent Research Assistant) — a personal project that integrates multiple intelligent agents to automate research, summarization, and knowledge retrieval.<br> Experienced in LLMs, RAG systems, and speech-based AI using Gemini, Whisper, and ElevenLabs.<br> Focused on Agentic AI, retrieval-augmented generation, and human-AI collaboration.<br> Skilled in FastAPI, LangChain, Docker, MongoDB, and Unity, building end-to-end scalable AI applications.<br> Completed the DEPI Generative AI Professional Track, building multiple production-ready GenAI projects.<br>
+<div align="center">
 
+```
+███╗   ███╗ ██████╗ ███████╗████████╗ █████╗ ███████╗ █████╗
+████╗ ████║██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
+██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafaeslam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafaeslam1220@gmail.com) 
+### `AI Engineer · LLM Systems · Agentic AI · RAG`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mostafaeslam&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mostafaeslam&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaeslam&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaeslam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafaeslam.github.io/New-Portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaeslam1220@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafaeslam)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mostafaeslam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```python
+class MostafaEslam:
+    role        = "AI Engineer"
+    degree      = "B.Sc. Artificial Intelligence — AASTMT, Alamein"
+    focus       = ["LLM Systems", "RAG Pipelines", "Agentic AI", "MLOps"]
+    currently   = "Building MARA — Multi-Agent Research Assistant"
+    available   = True  # Open to opportunities
+```
+
+> I design and deploy **production-ready intelligent systems** — from multi-agent orchestration and retrieval-augmented generation to mixed-reality AI interfaces. I bridge the gap between cutting-edge AI research and reliable, scalable software.
+
+---
+
+## `> ls ./expertise`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat ./projects`
+
+### 🤖 MARA — Multi-Agent Research Assistant *(In Progress)*
+> Orchestrates multiple intelligent agents to automate research, summarization, and knowledge retrieval. Built with LangGraph, RAG, and custom agent memory systems.
+
+---
+
+### 🥽 AI-Based Educational System with Mixed Reality *(Graduation Project)*
+> Mixed-reality learning platform with an AI teaching avatar — combining **Gemini LLM + Whisper STT + ElevenLabs TTS** on XREAL Air 2 Ultra glasses, deployed via FastAPI + Docker with automated quiz generation.
+
+`Gemini` `Whisper` `ElevenLabs` `LangChain` `FastAPI` `Docker` `Unity` `XREAL`
+
+---
+
+### 🛒 Retail Analytics Copilot *(DSPy + LangGraph)*
+> Hybrid AI agent with **RAG over local documents + NL→SQL generation** on the Northwind DB. Features intelligent query routing, constraint planning, citation tracing, SQL repair loops, and structured answer synthesis.
+
+`DSPy` `LangGraph` `Ollama` `phi3.5` `RAG` `SQL` `MLOps`
+
+---
+
+### 💊 Clinic Scraper — AI-Enhanced Automation Microservice
+> Dockerized Python microservice for scraping dynamic web data with async processing, retry logic, structured CSV storage, and **LLM-based result classification**.
+
+`Playwright` `FastAPI` `asyncio` `Docker` `BeautifulSoup` `LLM`
+
+---
+
+### 🏷️ Coupon Checker — Browser Automation System
+> End-to-end Playwright-powered automation for dynamic web pages — coupon extraction, pricing logic, REST API integration with **n8n workflow scheduling**.
+
+`Playwright` `n8n` `FastAPI` `Webhooks` `asyncio`
+
+---
+
+### 📝 NLP Code Generation System
+> Fine-tuned **CodeT5** on 11K+ samples for NL→code generation (Python/C++), achieving **80% syntactic correctness** via compilation-based evaluation.
+
+`CodeT5` `Hugging Face` `PyTorch` `NLP` `Fine-tuning`
+
+---
+
+## `> history | grep experience`
+
+```
+[Apr 2024 – Oct 2024]  Generative AI Professional Trainee @ DEPI (Digital Egypt Pioneers Initiative)
+                        ↳ LLM systems, RAG pipelines, deployment workflows
+                        ↳ Fine-tuned models → 20% improvement in inference time
+
+[May 2024 – Jun 2024]  Machine Learning Intern @ Mentorness (Remote, India)
+                        ↳ Disease prediction & market forecasting models
+                        ↳ ML pipelines achieving 88% accuracy
+```
+
+---
+
+## `> cat ./certifications`
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🏆 Generative AI Professional Track | DEPI / MCIT Egypt | 2024 |
+| 🎓 Machine Learning in Production | DeepLearning.AI / Coursera | 2024 |
+| 🎓 Introduction to Machine Learning | ITI | 2023 |
+| 🎓 Machine Learning Internship | Mentorness | 2024 |
+
+---
+
+## `> neofetch` (GitHub Stats)
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mostafaeslam&theme=synthwave&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=mostafaeslam&theme=synthwave&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaeslam&theme=synthwave&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## `> echo $CURRENT_FOCUS`
+
+```
+🔭  Building: MARA — Multi-Agent Research Assistant
+🌱  Exploring: Advanced LLM orchestration, MCP protocol, AI agents at scale  
+💬  Ask me about: RAG, LangGraph, Agentic AI, MLOps, FastAPI
+⚡  Fun fact: I built a mixed-reality AI teacher before finishing my degree
+```
+
+---
+
+<div align="center">
+
+*"The best AI systems are the ones that know when to think, when to search, and when to ask."*
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=mostafaeslam&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
